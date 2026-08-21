@@ -33,7 +33,7 @@ Atualmente estou focado em aprimorar meus conhecimentos em **desenvolvimento Ful
 ## 🎨 Front-end
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,ts" />
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@ Atualmente estou focado em aprimorar meus conhecimentos em **desenvolvimento Ful
 ## ⚙️ Back-end
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,cs,dotnet,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,cs,dotnet,nodejs,nestjs" />
 </p>
 
 <p align="left">
