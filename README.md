@@ -33,7 +33,7 @@ Atualmente estou focado em aprimorar meus conhecimentos em **desenvolvimento Ful
 ## 🎨 Front-end
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts" />
 </p>
 
 <p align="left">
